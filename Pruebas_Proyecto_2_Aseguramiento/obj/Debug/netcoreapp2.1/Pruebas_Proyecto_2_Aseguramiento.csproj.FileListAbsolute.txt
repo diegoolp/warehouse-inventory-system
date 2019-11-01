@@ -1,0 +1,31 @@
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.deps.json
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.runtimeconfig.json
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.runtimeconfig.dev.json
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.dll
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.pdb
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.csprojAssemblyReference.cache
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.AssemblyInfoInputs.cache
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.AssemblyInfo.cs
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.dll
+C:\Users\Diego Lopez\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.pdb
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\TechTalk.SpecFlow.MSTest.SpecFlowPlugin.dll
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.deps.json
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.runtimeconfig.json
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.runtimeconfig.dev.json
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.dll
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.pdb
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.csprojAssemblyReference.cache
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.AssemblyInfoInputs.cache
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.AssemblyInfo.cs
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.dll
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\obj\Debug\netcoreapp2.1\Pruebas_Proyecto_2_Aseguramiento.pdb
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\chromedriver.exe
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\testhost.exe
+C:\Users\Progr\source\repos\Pruebas_Proyecto_2_Aseguramiento\bin\Debug\netcoreapp2.1\testhost.dll
