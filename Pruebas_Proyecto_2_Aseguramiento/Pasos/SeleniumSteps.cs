@@ -102,6 +102,9 @@ namespace Pruebas_Proyecto_2_Aseguramiento.Pasos
         public void ThenTheResultShouldBeInTheClass(string p0, string p1)
         {
             String xPath = driver.FindElement(By.XPath(p1)).GetAttribute("class");
+			driver.quit();
+            driver.Close();
+            driver.Dispose();
             Assert.AreEqual(p0, xPath);
         }
 
