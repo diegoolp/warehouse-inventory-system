@@ -5263,11 +5263,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Progr\\source\\repos\\Pruebas_Proyecto_2_Aseguramiento\\Pruebas_Proyecto_2_Aseguramiento.csproj",
+      "projectUniqueName": "C:\\Users\\Progr\\Desktop\\UMG\\10 - Decimo Semestre\\5 - Aseguramiento de calidad\\Proyecto Final\\warehouse-inventory-system\\Pruebas_Proyecto_2_Aseguramiento\\Pruebas_Proyecto_2_Aseguramiento.csproj",
       "projectName": "Pruebas_Proyecto_2_Aseguramiento",
-      "projectPath": "C:\\Users\\Progr\\source\\repos\\Pruebas_Proyecto_2_Aseguramiento\\Pruebas_Proyecto_2_Aseguramiento.csproj",
+      "projectPath": "C:\\Users\\Progr\\Desktop\\UMG\\10 - Decimo Semestre\\5 - Aseguramiento de calidad\\Proyecto Final\\warehouse-inventory-system\\Pruebas_Proyecto_2_Aseguramiento\\Pruebas_Proyecto_2_Aseguramiento.csproj",
       "packagesPath": "C:\\Users\\Progr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Progr\\source\\repos\\Pruebas_Proyecto_2_Aseguramiento\\obj\\",
+      "outputPath": "C:\\Users\\Progr\\Desktop\\UMG\\10 - Decimo Semestre\\5 - Aseguramiento de calidad\\Proyecto Final\\warehouse-inventory-system\\Pruebas_Proyecto_2_Aseguramiento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Progr\\AppData\\Roaming\\NuGet\\NuGet.Config",
